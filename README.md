@@ -45,30 +45,26 @@ cd java-expense-tracker-api
 ```
 ### Running the App
 
-```text
 Compile the Java file:
-```
 ```bash
 javac ExpenseTracker.java
 ```
 
-```text
 Run the program:
-```
 ```bash
 java ExpenseTracker
 ```
 **Example Terminal Flow:**
 
-Enter expense name: Coffee
-Enter category: Food
-Enter price: £4.50
+| Enter expense name: | Coffee |
+| Enter category: | Food |
+| Enter price: | £4.50 |
 
---- Expense Details ---
-Name:     Coffee
-Category: Food
-Price:    £4.50
-```
+| --- Expense Details --- |
+|-------|-----------------|
+| Name: | Coffee |
+| Category: | Food |
+| Price: | £4.50 |
 
 ## License
 This project is license under the MIT License.
