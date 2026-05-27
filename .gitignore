@@ -1,0 +1,12 @@
+# EN: Ignore compiled Java class files
+# JP: コンパイルされたJavaクラスファイルを無視します
+*.class
+
+# EN: Ignore macOS system files
+# JP: macOSのシステムファイルを無視します
+.DS_Store
+
+# EN: Ignore IDE/editor files
+# JP: IDE/エディタのファイルを無視します
+.idea/
+.vscode/
