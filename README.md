@@ -55,16 +55,15 @@ Run the program:
 java ExpenseTracker
 ```
 **Example Terminal Flow:**
+```text
+Enter expense name: Coffee 
+Enter category: Food
+Enter price: £4.50
 
-| Enter expense name: | Coffee |
-| Enter category: | Food |
-| Enter price: | £4.50 |
-
-| --- Expense Details --- |
-|-------|-----------------|
-| Name: | Coffee |
-| Category: | Food |
-| Price: | £4.50 |
+--- Expense Details ---
+Name: Coffee
+Category: Food
+Price: £4.50
 
 ## License
-This project is license under the MIT License.
+This project is licensed under the MIT License.
